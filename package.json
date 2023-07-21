@@ -2,12 +2,12 @@
   "name": "express-hello-world",
   "version": "1.0.0",
   "description": "A simple Hello, World! example using Express.js",
-  "main": "app.js", // Set the entry point to app.js
+  "main": "app.js", 
   "dependencies": {
     "express": "^4.17.1"
   },
   "scripts": {
-    "start": "node app.js" // Add a start script to run the server
+    "start": "node app.js" 
   },
   "author": "Your Name",
   "license": "MIT"
